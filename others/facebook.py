@@ -20,9 +20,9 @@ driver = webdriver.Chrome(chrome_options=option, executable_path=chromedriver)
 
 print("Перед началом авторизуйтесь!")
 
-login_facebook = 'mamko-pak@ukr.net'
+login_facebook = '******'
 #input("Введите ваш пароль: ")
-password_facebook = 'test12345'
+password_facebook = '*****'
 
 POSTS = []
 LINKS = []
